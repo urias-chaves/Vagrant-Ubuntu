@@ -1,1 +1,0 @@
-{"virtualbox":{"/var/www/html":{"guestpath":"/var/www/html","hostpath":"/home/urias/Área de Trabalho/CursoDevOps/Vagrant-Ubuntu/app","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/home/urias/Área de Trabalho/CursoDevOps/Vagrant-Ubuntu","disabled":false,"__vagrantfile":true}}}
